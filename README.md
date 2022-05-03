@@ -32,5 +32,5 @@ Obs: Para utilizar o amazon s3 é necessário uma conta na amazon , caso queira 
 ### Métodos utilizados 
 - get<br>
 - post<br>
-- delete (na proxima atualização)<br>
-- put (na proxima atualização)
+- delete<br>
+- put
